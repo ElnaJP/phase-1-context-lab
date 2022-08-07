@@ -19,6 +19,8 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
-    "chai-spies": "^1.0.0"
+    "chai-spies": "^1.0.0",
+    "node": "^18.7.0",
+    "test": "^3.2.1"
   }
 }
